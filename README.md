@@ -40,9 +40,9 @@ a vue component of circle progress bar
 | :-: | :-: | :-: | :-: |
 | percent | 进度百分比 0-100 | Number | 0 |
 | size | 大小 | Number | 120 |
-| staticWidth | 背景圆环 stroke 宽度 | String |  |
+| staticWidth | 背景圆环 stroke 宽度 | String | 6 |
 | staticColor | 背景圆环 颜色 | String | #E8EAED |
-| dynamicWidth | 圆环 stroke 宽度 | Number |  |
+| dynamicWidth | 圆环 stroke 宽度 | Number | 7 |
 | dynamicColor | 圆环 颜色 | String | #3864EC |
 | dynamicShape | 圆环边角形状 ```round```,```square``` | String | round |
 | dashboard | 仪表盘 | Boolean | false |
