@@ -16,11 +16,11 @@ a vue component of circle progress bar
 
 # use cdn
 ```html
-<script src="https://cdn.jsdelivr.net/npm/circle-progress@0.0.1/dist/circle-progress.min.js"></script>
-<link ref="stylesheet" href="https://cdn.jsdelivr.net/npm/circle-progress@0.0.1/dist/circle-progress.css"></script>
+<script src="https://cdn.jsdelivr.net/npm/vue-circle-xprogress@0.0.1/dist/circle-progress.min.js"></script>
+<link ref="stylesheet" href="https://cdn.jsdelivr.net/npm/vue-circle-xprogress@0.0.1/dist/circle-progress.css">
 ```
 # live example
-> [code open](https://codepen.io/zhoulin/pen/ajRzBL)
+> [code open](https://codepen.io/zhoulin/pen/jvZeNy)
 
 
 # start
