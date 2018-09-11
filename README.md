@@ -3,7 +3,7 @@ a vue component of circle progress bar
 
 # install
  ```bash
- $ npm i vue-circle-progress -s
+ $ npm i vue-circle-xprogress -s
  ```
  
 # use npm
